@@ -1,5 +1,4 @@
 class Quartz < Formula
-  version "0.4.0"
   desc "The CLI way to build and test Rest APIs"
   homepage "https://github.com/EduardoRodriguesF/quartz"
   url "https://github.com/EduardoRodriguesF/quartz/releases/download/v0.4.0/quartz-v0.4.0-x86_64-apple-darwin.tar.gz"
