@@ -1,8 +1,8 @@
 class Quartz < Formula
   desc "The CLI way to build and test Rest APIs"
   homepage "https://github.com/EduardoRodriguesF/quartz"
-  url "https://github.com/EduardoRodriguesF/quartz/releases/download/v0.5.1/quartz-v0.5.1-x86_64-apple-darwin.tar.gz"
-  sha256 "0fe9eebdcf6552447f21cd467891a22a809f485ddf58b8fd1b832d58846546ba"
+  url "https://github.com/EduardoRodriguesF/quartz/releases/download/v0.6.0/quartz-v0.6.0-x86_64-apple-darwin.tar.gz"
+  sha256 "5392069c0df199ad66ecf2fa43ab4d47147cbff9ffb176289591c2521f765d14"
 
   def install
     bin.install "quartz"
