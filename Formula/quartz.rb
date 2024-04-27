@@ -1,8 +1,8 @@
 class Quartz < Formula
   desc "The command-line tool to build and test HTTP requests"
   homepage "https://github.com/EduardoRodriguesF/quartz"
-  url "https://github.com/EduardoRodriguesF/quartz/releases/download/v1.0.1/quartz-v1.0.1-x86_64-apple-darwin.tar.gz"
-  sha256 "e88215ec6f1442ac6dc9a4f0291246faf7d1c0303adc69f42635076ce0bcc0f7"
+  url "https://github.com/EduardoRodriguesF/quartz/releases/download/v1.1.0/quartz-v1.1.0-x86_64-apple-darwin.tar.gz"
+  sha256 "c6526ae95920560c126ec503a4c00d6e41904a36e498ec9c30bb4858f0589b1d"
 
   def install
     bin.install "quartz"
